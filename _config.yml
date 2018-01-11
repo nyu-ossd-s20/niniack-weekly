@@ -2,48 +2,57 @@
 # This file contains configuration flags to customize your site
 #
 
+# CUSTOMIZE
 # Name of your site (displayed in the header)
+# This should be your name or nickname.
 name: Your Name
 
 # CUSTOMIZE
-# Short bio or description (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2018
+# Short bio or description aout you (displayed in the header)
+description: CSCI-UA 480 Student, Spring 2019
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/35243561?s=200&v=4
+avatar: https://avatars1.githubusercontent.com/u/46607804?s=200&v=4
 
 # CUSTOMIZE
 #
-# Flags below are optional - customize them if you wish 
+# Flags below are optional - customize them if you wish
+# The github flag should be replaced by your own github account name.
 #
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
   email:
   facebook:
   flickr:
-  github: nyu-ossd-s18
+  github: nyu-ossd-s19
   instagram:
   linkedin:
   pinterest:
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
 # Your website URL (e.g. https://nyu-ossd-s18.github.io/weekly )
-# Replace the last part by the name of your own repository. It should be "/weekly-" followed by your username. 
-url: "https://nyu-ossd-s18.github.io/jekyll-now" 
+# Replace the last part by the name of your own repository. 
+# It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
+# user name for GitHub.
+
+url: "https://nyu-ossd-s18.github.io/weekly"
 
 # CUSTOMIZE
-# Replace this with the name of your own repository. It should be "/weekly-" followed by your username.
-baseurl: "/jekyll-now"
+# Replace this with the name of your own repository.
+# It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
+# user name for GitHub.
+
+baseurl: "/weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
+#   (but you may, if you know what you are doing)
 #
 
 permalink: /:title/
