@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+&#127470;&#127475; जयपुर (Jaipur)  //
+&#127464;&#127475; 深圳 (Shenzhen) //
+&#127462;&#127466; أَبُو ظ َبِي‎ (Abu Dhabi)
 
-### More Information
+### **Education**
 
-A place to include any other types of information that you'd like to include about yourself.
+##### Computer Engineer @ NYUAD
+*2017-2021*
 
+### **Interests**
+Home automation // Public train systems// [Designing playlist cover art for curated playlists](https://open.spotify.com/user/niniack) // Playing the flute // Capturing flags
