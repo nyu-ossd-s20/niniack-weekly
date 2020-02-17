@@ -14,7 +14,7 @@ for i in range(len(changesetIDs)):
             f.write('| {} |\
             https://www.openstreetmap.org/changeset/{} | \
                     OpenStreetMap | \
-                    {} |\
+                    {} |\n\
                     '.format(data[id]['created_at'].strftime('%b %d'),
                              data[id]['id'],
                              data[id]['tag']['comment']
