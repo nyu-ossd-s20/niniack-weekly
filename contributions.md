@@ -16,6 +16,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| Apr 13 |            https://github.com/Pataclop/Movinyl/pull/5 |                     Github |                     Revamped a script that handles running commands for the final display |
 | Apr 12 |            https://github.com/Pathoschild/StardewMods/pull/544 |                     Github |                     Translate shipping-bin.store and shipping-bin.take in zh.json in StardewValley Chests Anywhere mod |
 | Apr 6 |            https://www.openstreetmap.org/changeset/83165136 |                     OpenStreetMap |                     Added Satkar Shopping Center in Sector 2, Malviya Nagar |
 | Apr 6 |            https://github.com/Pataclop/Movinyl/pull/2 |                     Github |                     Added gitignore and changed disk width to macro |
