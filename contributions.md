@@ -16,6 +16,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| Apr 19 |            https://github.com/Pataclop/Movinyl/pull/7 |                     Github |                     Parallelized a nested for loop using OpenMP and achieved 2x speedup |
 | Apr 17 |            https://github.com/Pathoschild/StardewMods/pull/545 |                     Github |                     Added zh translations for unrevealed villagers and unrevealed items in Stardew Valley Lookup Anything mod |
 | Apr 16 |            https://github.com/Pataclop/Movinyl/pull/6 |                     Github |                     Revamped README file |
 | Apr 13 |            https://github.com/Pataclop/Movinyl/pull/5 |                     Github |                     Revamped a script that handles running commands for the final display |
