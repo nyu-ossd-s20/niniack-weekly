@@ -16,6 +16,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| May 6 |            https://github.com/pier-cli/pier/issues/59 |                     Github Issue |                     Raised an issue asking about the configuration of the pier tool upon installation |
 | May 3 |            https://www.openstreetmap.org/changeset/84585212 |                     OpenStreetMap |                    Added parks in Sector 4 Malviya Naga |
 | May 3 |            https://www.openstreetmap.org/changeset/84585163 |                     OpenStreetMap |                    Added St. Edmund's Malviya Nagar School |
 | Apr 19 |            https://github.com/Pataclop/Movinyl/pull/7 |                     Github |                     Parallelized a nested for loop using OpenMP and achieved 2x speedup |
