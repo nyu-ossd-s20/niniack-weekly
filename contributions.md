@@ -16,6 +16,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| May 14 |            https://github.com/pier-cli/pier/pull/60 |                     Github |                     Hopped on a ~2hr call with a project maintainer to talk through the project and work on config file generation as he walked me through it|
 | May 10 |           https://github.com/heroku/heroku-django-template/issues/103 |                     Github Issue Comment |                     Requested to be assigned upgrading the template from django 2.0 to 3.0 |
 | May 6 |            https://github.com/pier-cli/pier/issues/59 |                     Github Issue |                     Raised an issue asking about the configuration of the pier tool upon installation |
 | May 3 |            https://www.openstreetmap.org/changeset/84585212 |                     OpenStreetMap |                    Added parks in Sector 4 Malviya Naga |
